@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nbuistmps
 - 👀 I’m interested in video game development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for helpful tutorials on python, C++, and Java
+- 📫 How to reach me buistnt@midlandps.org
 
 <!---
 nbuistmps/nbuistmps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
